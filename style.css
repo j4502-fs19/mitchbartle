@@ -1,0 +1,61 @@
+/*styles go here*/
+
+/*p {
+color: red;
+} */
+
+p {
+  color: #000000
+  font-family: 'Muli', sans-serif;
+}
+
+h1 {
+  font-family: 'Muli', sans-serif;
+}
+
+body {
+  background-color: #ebe3c3;
+}
+
+#nav {
+padding: 0;
+list-style-type: none;
+}
+
+#nav li {
+  border-bottom: 1px solid #ccc;
+}
+
+#nav a:link, #nav a:visited {
+  display: block;
+  color: #fff;
+  background-color: #98bf21;
+  font-weight: bold;
+  text-align: center;
+  text-decoration: none;
+  font-family: Helvetica, Arial, serif;
+  padding: 4px;
+}
+
+#nav a:hover, #nav a:visited {
+  background-color: #7a991a;
+}
+
+.caption {
+  font-family: Georgia, "Times New Roman", serif;
+  color: black;
+  font-style: italic;
+  text-align: right;
+  font-size: 0.8em;
+  margin-top: 0;
+}
+
+#footer {
+  color: black;
+  font-size: 0.8em;
+  border-top: 1px solid black;
+}
+
+img {
+  border: none;
+}
