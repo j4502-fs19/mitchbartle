@@ -31,6 +31,16 @@ body {
   background-color: #d4dfff;
 }
 
+#container{
+    width: 95%;
+    margin: 0 auto;
+}
+
+#nav {
+    padding: 0;
+	  list-style-type: none;
+}
+
 #nav {
 padding: 0;
 list-style-type: none;
