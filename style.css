@@ -7,10 +7,12 @@ color: red;
 p {
   color: #000000;
   font-family: 'Muli', sans-serif;
+
 }
 
 h1 {
   font-family: 'Muli', sans-serif;
+  font-size: 600;
 }
 
 body {
