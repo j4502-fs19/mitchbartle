@@ -12,8 +12,7 @@ p {
 
 h1 {
   font-family: 'Muli', sans-serif;
-  font-size: 600px;
-  font-style: semi-bold;
+  font-weight: 600;
 }
 
 body {
