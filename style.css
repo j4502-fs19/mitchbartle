@@ -4,9 +4,16 @@
 color: red;
 } */
 
+div {
+  width: 300px;
+  margin: auto;
+  border: 1px solid black;
+}
+
 p {
   color: #000000;
   font-family: 'Muli', sans-serif;
+  p.none {border-style: none;}
 }
 
 h1 {
