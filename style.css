@@ -7,6 +7,7 @@ color: red;
 div {
   width: 300px;
   padding: 25px;
+  margin: auto;
 }
 
 p {
