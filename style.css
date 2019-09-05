@@ -5,7 +5,7 @@ color: red;
 } */
 
 div {
-  width: 300px;
+  max-width: 800px;
   padding: 25px;
   margin: auto;
 }
