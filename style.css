@@ -16,10 +16,10 @@ p {
   display: inline-block;
 }
 
-<style>
 .headerbox {
 border-style: solid;
 border-color: #0e60b3;
+padding: inherit;
 
 }
 
