@@ -12,7 +12,7 @@ div {
 
 p {
   color: #000000;
-  font-family: 'Crimson Pro', serif;
+  font-family: 'Crimson Pro', "Times New Roman", serif;
   display: inline-block;
 }
 
@@ -24,13 +24,13 @@ padding: inherit;
 }
 
 h1 {
-  font-family: 'Muli', sans-serif;
+  font-family: 'Muli', "Helvetica", sans-serif;
   font-weight: 600;
   text-align: center;
 }
 
 h2 {
-  font-family: 'Muli', sans-serif;
+  font-family: 'Muli', "Helvetica", sans-serif;
   font-weight: 400;
   text-align: center;
 }
@@ -91,7 +91,7 @@ img {
 display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 80%;
+  width: 50%;
   padding-bottom: 25px;
   border: none;
 
