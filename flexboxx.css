@@ -1,8 +1,9 @@
 #nav {
 	display: flex;
+  justify-content: flex-start;
   flex-direction: row;
   align-items: stretch;
-  justify-content: flex-start;
+
 }
 
 
