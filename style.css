@@ -16,31 +16,6 @@ p {
   display: inline-block;
 }
 
-.headerbox {
-border-style: solid;
-border-color: #0e60b3;
-padding: inherit;
-
-}
-
-h1 {
-  font-family: 'Muli', "Helvetica", sans-serif;
-  font-weight: 600;
-  text-align: center;
-}
-
-h2 {
-  font-family: 'Muli', "Helvetica", sans-serif;
-  font-weight: 400;
-  text-align: center;
-}
-
-body {
-  background-color: #d4dfff;
-  margin: auto;
-
-}
-
 container {
     width: 95%;
     margin: 0 auto;
@@ -69,6 +44,31 @@ nav a:link, #nav a:visited {
 
 nav a:hover, #nav a:visited {
   background-color: #021c36;
+}
+
+.headerbox {
+border-style: solid;
+border-color: #0e60b3;
+padding: inherit;
+
+}
+
+h1 {
+  font-family: 'Muli', "Helvetica", sans-serif;
+  font-weight: 600;
+  text-align: center;
+}
+
+h2 {
+  font-family: 'Muli', "Helvetica", sans-serif;
+  font-weight: 400;
+  text-align: center;
+}
+
+body {
+  background-color: #d4dfff;
+  margin: auto;
+
 }
 
 .caption {
