@@ -5,9 +5,6 @@
   justify-content: flex-start;
 }
 
-div {
-  display: flex;
-}
 
 .headerbox {
   display: flex;
