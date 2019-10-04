@@ -35,13 +35,12 @@ h2 {
     margin: 0 auto;
 }
 
-nav {
+.header {
     padding: 0;
 	  list-style-type: none;
 }
 
-
-nav li {
+.header li {
   border-bottom: 1px solid #ccc;
 }
 
