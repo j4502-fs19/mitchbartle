@@ -1,12 +1,5 @@
-#nav {
-	display: flex;
-  justify-content: flex-start;
-  flex-direction: row;
-  align-items: stretch;
-
-}
-
-
-.headerbox {
+.container2 {
   display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
 }
