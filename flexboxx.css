@@ -1,23 +1,12 @@
-<<<<<<< HEAD
-.container {
-	display: flex;
-  justify-content: flex-start;
-
-=======
 #nav {
 	display: flex;
   justify-content: flex-start;
   flex-direction: row;
   align-items: stretch;
->>>>>>> 845e37356520dc88dc16419e147be2f8865dd19b
 
 }
 
 
-<<<<<<< HEAD
-.nav {
-=======
 .headerbox {
->>>>>>> 845e37356520dc88dc16419e147be2f8865dd19b
   display: flex;
 }
