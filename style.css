@@ -30,7 +30,7 @@ h2 {
   text-align: center;
 }
 
-.container {
+#container {
     width: 95%;
     margin: 0 auto;
 }
@@ -44,7 +44,7 @@ h2 {
   border-bottom: 1px solid #ccc;
 }
 
-nav a:link, nav a:visited {
+#nav a:link, #nav a:visited {
   display: block;
   color: #fff;
   background-color: #0e60b3;
@@ -55,7 +55,7 @@ nav a:link, nav a:visited {
   padding: 4px;
 }
 
-nav a:hover, nav a:visited {
+#nav a:hover, #nav a:visited {
   background-color: #021c36;
 }
 
