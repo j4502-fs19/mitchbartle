@@ -4,13 +4,6 @@
 color: red;
 } */
 
-div {
-  display: flex;
-  max-width: 800px;
-  padding: 0px;
-  margin: auto;
-}
-
 p {
   color: #000000;
   font-family: 'Crimson Pro', "Times New Roman", serif;
@@ -36,6 +29,7 @@ h2 {
     padding: 0;
 	  list-style-type: none;
     border-bottom: 1px solid #ccc;
+    background-color: #0e60b3;
 }
 
 }
