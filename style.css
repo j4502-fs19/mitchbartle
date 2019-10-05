@@ -45,7 +45,7 @@ h2 {
   border-bottom: 1px solid #ccc;
 }
 
-.nav:link, .nav:visited {
+nav:link, nav:visited {
   display: block;
   color: #fff;
   background-color: #0e60b3;
@@ -56,7 +56,7 @@ h2 {
   padding: 4px;
 }
 
-.nav:hover, .nav:visited {
+nav:hover, nav:visited {
   background-color: #021c36;
 }
 
