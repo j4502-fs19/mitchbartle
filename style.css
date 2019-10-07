@@ -37,6 +37,15 @@ body {
 .container2 a:link, .container2 a:visited{
   display: flex;
   align-items: baseline;
+<<<<<<< HEAD
+=======
+  color: #fff;
+  background-color: #0e60b3;
+  font-weight: bold;
+  font-family: Helvetica, Arial, serif;
+  padding: 4px;
+
+>>>>>>> parent of 9192337... put them back in row
 }
 
 #container{
