@@ -34,7 +34,7 @@ body {
 
 }
 
-.container2 a:link, .container2 a:visited {
+.container2 {
   display: flex;
   align-items: baseline;
 {
