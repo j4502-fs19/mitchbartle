@@ -44,10 +44,6 @@ body {
 
 }
 
-.container2 a:hover, .container a:visited {
-  background-color: #021c36;
-}
-
 #container{
     width: 95%;
     margin: 0 auto;
