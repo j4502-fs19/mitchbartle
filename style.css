@@ -34,10 +34,10 @@ body {
 
 }
 
-.container2 a:link, .container2 a:visited{
+.container2 a:link, .container2 a:visited {
   display: flex;
   align-items: baseline;
-
+{
 
 #container{
     width: 95%;
