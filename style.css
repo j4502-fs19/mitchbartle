@@ -34,7 +34,7 @@ body {
 
 }
 
-.container2 {
+/* .container2 {
   display: flex;
   align-items: baseline;
 {
@@ -42,7 +42,7 @@ body {
 #container{
     width: 95%;
     margin: 0 auto;
-}
+} */
 
 #nav {
     padding: 0;
@@ -65,7 +65,7 @@ body {
   padding: 4px;
 }
 
-#nav a:hover, #nav a:visited {
+#nav a:hover, #nav a:active {
   background-color: #021c36;
 }
 
@@ -92,6 +92,22 @@ display: block;
   width: 80%;
   padding-bottom: 25px;
   border: none;
+}
 
+.container2 {
+  display: flex;
+	justify-content: space-between;
+  flex-direction: column;
+  flex-wrap: wrap;
+}
 
+.header {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+@media screen and (min-width: 600px) {
+    .container2 {
+      flex-direction: row;
+    }
 }
