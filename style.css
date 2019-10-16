@@ -69,6 +69,13 @@ body {
   background-color: #021c36;
 }
 
+#nav {
+  display: flex;
+	justify-content: space-between;
+  flex-direction: column;
+  flex-wrap: wrap;
+}
+
 .caption {
   font-family: Georgia, "Times New Roman", serif;
   color: black;
