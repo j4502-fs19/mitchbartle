@@ -118,8 +118,27 @@ display: block;
   font-family: Helvetica, Arial, serif;
   padding: 4px;
 }
+
+
 .container2 a:hover, .container2 a:active {
   background-color: #021c36;
+}
+
+.cards {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 20px;
+    gap: 20px;
+  }
+
+  .cards li {
+    background-color: #0e60b3;
+    border: 1px solid #ccc;
+    padding: 10px;
+    border-radius: 5px;
 }
 
 .header {
