@@ -159,8 +159,7 @@ display: block;
       flex-direction: row;
     }
 
-@media screen and (min-width: 600px) {
+@media screen and (min-width: 300px) {
   .cards{
-    flex-direction: column;
+    flex-direction: row;
   }
-}
