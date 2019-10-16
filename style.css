@@ -44,7 +44,7 @@ body {
     margin: 0 auto;
 } */
 
-#nav {
+/* #nav {
     padding: 0;
 	  list-style-type: none;
 }
@@ -75,6 +75,7 @@ body {
   flex-direction: column;
   flex-wrap: wrap;
 }
+*/
 
 .caption {
   font-family: Georgia, "Times New Roman", serif;
@@ -115,7 +116,7 @@ display: block;
   text-align: center;
   text-decoration: none;
   font-family: Helvetica, Arial, serif;
-  padding: 4px;  
+  padding: 4px;
 }
 
 .header {
