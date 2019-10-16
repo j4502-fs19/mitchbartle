@@ -109,7 +109,7 @@ display: block;
   flex-wrap: wrap;
 }
 
-.container2 {
+.container2 a:link, .container2 a:visited {
   color: #fff;
   background-color: #0e60b3;
   font-weight: bold;
@@ -117,6 +117,9 @@ display: block;
   text-decoration: none;
   font-family: Helvetica, Arial, serif;
   padding: 4px;
+}
+.container2 a:hover, .container2 a:active {
+  background-color: #021c36;
 }
 
 .header {
