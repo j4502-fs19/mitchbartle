@@ -112,9 +112,24 @@ nav a{
 }
 
 header{
+  display: flex;
+  flex-flow: row;
   background-color:#65A8A6;
   margin:0;
-  padding:0 10px; 
+  padding:0 10px;
+}
+
+.menu-trigger{
+  order:1;
+}
+
+header h1{
+  order:2;
+  color:white
+}
+
+nav .header, .container2 {
+  display:none;
 }
 
 .container2 {
