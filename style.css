@@ -132,6 +132,23 @@ nav .header, .container2 {
   display:none;
 }
 
+nav .header, .container2 {
+  display:flex;
+  border-top:none;
+}
+
+.menu-trigger{
+  display:none;
+}
+
+nav{
+  order:2;
+}
+
+header h1{
+  order:1;
+}
+
 .container2 {
   display: flex;
 	justify-content: space-between;
@@ -194,3 +211,4 @@ nav .header, .container2 {
     flex-direction: row;
   }
 }
+@media screen and (min-width:700px)
