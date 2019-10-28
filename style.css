@@ -101,6 +101,21 @@ display: block;
   padding-bottom: 25px;
   border: none;
 }
+nav .header, .container2 {
+  display:block;
+  border-top:1px #79896D solid;
+}
+
+nav a{
+  display:block;
+  padding:20px 30px
+}
+
+header{
+  background-color:#65A8A6;
+  margin:0;
+  padding:0 10px; 
+}
 
 .container2 {
   display: flex;
