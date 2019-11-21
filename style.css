@@ -35,6 +35,13 @@ body {
 
 }
 
+.header {
+  float: left;
+  text-align: center;
+  width: 20%;
+  padding: 12px 0;
+}
+
 nav {
       display: flex;
       padding: 0;
@@ -58,7 +65,7 @@ nav {
     background-color: #021c36;
   }
 
-  nav .header, .container2 {
+  nav .header {
     display:block;
     border-top:1px #79896D solid;
   }
