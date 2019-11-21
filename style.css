@@ -51,7 +51,7 @@ nav {
   }
 
   nav a:link, nav a:visited {
-    display: block;
+    display: flex;
     color: #fff;
     background-color: #0e60b3;
     font-weight: bold;
