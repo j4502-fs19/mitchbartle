@@ -23,10 +23,18 @@ h1 {
   text-align: center;
 }
 
+.lefth1 {
+  text-align: left;
+}
+
 h2 {
   font-family: 'Muli', sans-serif;
   font-weight: 400;
   text-align: center;
+}
+
+.lefth2 {
+  text-align: left;
 }
 
 body {
