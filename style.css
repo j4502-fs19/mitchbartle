@@ -58,6 +58,16 @@ nav {
     background-color: #021c36;
   }
 
+  nav .header, .container2 {
+    display:block;
+    border-top:1px #79896D solid;
+  }
+
+  nav a{
+    display:block;
+    padding:20px 30px
+  }
+
   nav {
     display: flex;
   	justify-content: space-between;
@@ -137,15 +147,7 @@ display: block;
   padding-bottom: 25px;
   border: none;
 }
-nav .header, .container2 {
-  display:block;
-  border-top:1px #79896D solid;
-}
 
-nav a{
-  display:block;
-  padding:20px 30px
-}
 
 header{
   display: flex;
