@@ -78,6 +78,7 @@ nav {
 .header {
   display: flex;
 
+
 }
 
 /* .container2 {
@@ -149,7 +150,7 @@ display: block;
 }
 
 
-header{
+/*header{
   display: flex;
   flex-flow: row;
   background-color:#65A8A6;
@@ -203,7 +204,7 @@ header h1{
   font-family: Helvetica, Arial, serif;
   padding: 4px;
 }
-
+*/
 
 .container2 a:hover, .container2 a:active {
   background-color: #021c36;
@@ -234,10 +235,6 @@ header h1{
     border-radius: 5px;
 }
 
-.header {
-  display: flex;
-  flex-wrap: wrap;
-}
 
 @media screen and (min-width: 600px) {
     .container2 {
