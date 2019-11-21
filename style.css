@@ -11,6 +11,10 @@ div {
   display: flex;
 }
 
+div {
+  display: inline-block;
+}
+
 p {
   color: #000000;
   font-family: 'Crimson Pro', serif;
