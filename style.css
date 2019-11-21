@@ -54,6 +54,10 @@ body {
   padding: 10px 10px;
 }
 
+.header a {
+  padding: 10px 10px;
+}
+
 nav {
       display: flex;
       padding: 0;
