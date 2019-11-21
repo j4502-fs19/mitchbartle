@@ -8,11 +8,7 @@ div {
   max-width: 800px;
   padding: 0px;
   margin: auto;
-  display: flex;
-}
-
-div {
-  display: inline-block;
+  display: block;
 }
 
 p {
