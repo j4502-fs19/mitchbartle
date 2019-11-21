@@ -71,7 +71,7 @@ nav {
   }
 
   nav a{
-    display:block;
+    display:flex;
     padding:20px 30px
   }
 
