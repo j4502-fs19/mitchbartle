@@ -74,7 +74,7 @@ nav {
     text-align: center;
     text-decoration: none;
     font-family: Helvetica, Arial, serif;
-    padding: 4px;
+    padding: 10px;
   }
 
   nav a:hover, nav a:active {
@@ -91,7 +91,7 @@ nav {
     padding:20px 30px
   }
 
-  nav {
+  nav a{
     display: flex;
   	justify-content: space-between;
     flex-direction: column;
