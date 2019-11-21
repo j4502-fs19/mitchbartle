@@ -38,7 +38,7 @@ body {
 .header {
   float: left;
   text-align: center;
-  width: 20%;
+  width: auto;
   padding: 12px 0;
   margin-left: auto;
 }
