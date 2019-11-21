@@ -43,6 +43,28 @@ nav {
 
   }
 
+  nav a:link, nav a:visited {
+    display: block;
+    color: #fff;
+    background-color: #0e60b3;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+    font-family: Helvetica, Arial, serif;
+    padding: 4px;
+  }
+
+  nav a:hover, nav a:active {
+    background-color: #021c36;
+  }
+
+  nav {
+    display: flex;
+  	justify-content: space-between;
+    flex-direction: column;
+    flex-wrap: wrap;
+  }
+
 .header {
   display: flex;
 
