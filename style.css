@@ -8,7 +8,7 @@ div {
   max-width: 800px;
   padding: 0px;
   margin: none;
-  display: block;
+  display: flex;
 }
 
 p {
@@ -42,7 +42,7 @@ h2 {
 body {
   background-color: #d4dfff;
   margin: none;
-  display: flex;
+  display: block;
 
 }
 
