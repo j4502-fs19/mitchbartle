@@ -91,6 +91,7 @@ nav {
   nav .header {
     display:flex;
     border-top:1px #021c36 solid;
+    flex-wrap: wrap;
   }
 
   nav a{
@@ -256,6 +257,7 @@ header h1{
     border: 1px solid #ccc;
     padding: 10px;
     border-radius: 5px;
+    flex-wrap: wrap;
 }
 
 
