@@ -40,6 +40,7 @@ h2 {
 body {
   background-color: #d4dfff;
   margin: none;
+  display: flex;
 
 }
 
@@ -161,7 +162,7 @@ img {
 display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 80%;
+  width: 40%;
   padding-bottom: 25px;
   border: none;
 }
