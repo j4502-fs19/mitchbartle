@@ -8,7 +8,7 @@ div {
   max-width: 800px;
   padding: 0px;
   margin: none;
-  display: flex;
+  display: block;
 }
 
 p {
