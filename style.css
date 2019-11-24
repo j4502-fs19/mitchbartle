@@ -261,11 +261,11 @@ header h1{
     }
 
 @media screen and (min-width: 300px) {
-  .grid{
-    flex-direction: row;
+  .cards {
+    flex-direction: column;
   }
 }
 @media screen and (min-width:300px) {
-  img { flex-shrink:auto
+  .content { flex-direction: column;
     }
 }
