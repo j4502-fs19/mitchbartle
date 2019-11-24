@@ -58,6 +58,7 @@ body {
   overflow: hidden;
   background-color: #0e60b3;
   padding: 10px 10px;
+  display: flex;
 }
 
 .header a {
