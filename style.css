@@ -25,7 +25,8 @@ h1 {
 
 .lefth1 {
   text-align: left;
-  border-width: inherit;
+  border: 2px solid #0e60b3;
+  border-radius: 25px;
 }
 
 h2 {
@@ -36,7 +37,8 @@ h2 {
 
 .lefth2 {
   text-align: left;
-  border-width: inherit;
+  border: 2px solid #0e60b3;
+  border-radius: 25px;
 }
 
 body {
@@ -59,8 +61,6 @@ body {
 
 .header a {
   padding: 10px 10px;
-  border: 2px solid #0e60b3;
-  border-radius: 25px;
 }
 
 nav {
