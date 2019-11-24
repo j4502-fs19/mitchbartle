@@ -25,6 +25,7 @@ h1 {
 
 .lefth1 {
   text-align: left;
+  border-width: inherit;
 }
 
 h2 {
@@ -35,6 +36,7 @@ h2 {
 
 .lefth2 {
   text-align: left;
+  border-width: inherit;
 }
 
 body {
