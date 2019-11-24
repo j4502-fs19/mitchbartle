@@ -26,6 +26,7 @@ h1 {
 .lefth1 {
   text-align: left;
   border: 2px solid #0e60b3;
+  border-style: solid;
 }
 
 h2 {
@@ -37,6 +38,7 @@ h2 {
 .lefth2 {
   text-align: left;
   border: 2px solid #0e60b3;
+  border-style: solid;
 }
 
 body {
