@@ -15,6 +15,7 @@ p {
   color: #000000;
   font-family: Georgia, "Times New Roman", serif;
   display: inline-block;
+  margin:inherit;
 }
 
 h1 {
