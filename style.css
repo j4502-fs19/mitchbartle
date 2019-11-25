@@ -8,7 +8,7 @@ div {
   max-width: 800px;
   padding: 0px;
   margin: auto;
-  display: flex;
+  display: block;
 }
 
 p {
@@ -201,6 +201,8 @@ display: block;
     border: 1px solid #ccc;
     padding: 10px;
     border-radius: 5px;
+    display: flex;
+    flex-direction: column;
 }
 
 
